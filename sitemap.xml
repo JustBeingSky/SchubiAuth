@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/blob/main/LICENSE</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/activity</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/issues</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/pulls</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/actions</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/security</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/blob/main/README.md</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/blob/main/Tutorial</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/releases</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/releases/tag/SchubiAuth</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/commit/b7f0b20110d1ada4f1ee8730a097694cd7116478</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels?sort=name-asc</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels?sort=name-desc</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels?sort=count-desc</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels?sort=count-asc</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/bug</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/documentation</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/duplicate</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/enhancement</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/good%20first%20issue</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/help%20wanted</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/invalid</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/question</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/labels/wontfix</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/commit/9b97e3612028200a8af039aafebcacb70dabb82d</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JustBeingSky/SchubiAuth/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-05-03T21:48:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
